@@ -1,0 +1,23 @@
+.products-page .page-header {
+  margin-bottom: 1.5rem;
+}
+
+.products-page .page-header h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.table-controls {
+  margin-bottom: 1rem;
+}
+
+.table-controls .search-input {
+  width: 300px;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+.table td button {
+  margin-right: 0.5rem;
+}

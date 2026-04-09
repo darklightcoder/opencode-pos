@@ -1,0 +1,12 @@
+.categories-page .page-header {
+  margin-bottom: 1.5rem;
+}
+
+.categories-page .page-header h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.categories-page .table td button {
+  margin-right: 0.5rem;
+}
